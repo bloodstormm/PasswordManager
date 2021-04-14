@@ -1,8 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="br.com.nicolas.flutter_crud">
    <application
-        android:label="FlutterCRUD"
-        android:icon="@mipmap/ic_launcher">
+        android:label="PasswordManager"
+        android:icon="@mipmap/logo">
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
@@ -37,5 +37,6 @@
         <meta-data
             android:name="flutterEmbedding"
             android:value="2" />
+        
     </application>
 </manifest>
