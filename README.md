@@ -1,4 +1,4 @@
-# PasswordManager
+# :lock: PasswordManager
 
 Um app desenvolvido em Flutter.
 
